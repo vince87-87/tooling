@@ -1,2 +1,2 @@
 # tooling-website
-Integrate with jenkins using webhooks
+Integrate with jenkins using webhook

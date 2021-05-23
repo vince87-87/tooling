@@ -1,3 +1,3 @@
 # tooling-website
 
-Deploy html file over ssh via Jenkins
+Deploy tooling html file over ssh via Jenkins

@@ -1,3 +1,3 @@
 # tooling-website
 
-Deploy CI/CD using Jenkins
+Deploy html file over ssh via Jenkins
